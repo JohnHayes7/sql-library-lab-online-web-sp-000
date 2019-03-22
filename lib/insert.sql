@@ -19,3 +19,5 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Owe
 
 INSERT INTO subgenres (name) VALUES ("Suspense");
 INSERT INTO subgenres (name) VALUES ("Sports");
+
+INSERT INTO authors
