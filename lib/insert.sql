@@ -1,1 +1,1 @@
-INSERT INTO series (title, author_id, subgenre_id) VALUES("A Walk Amongst Woods", )
+INSERT INTO series (title, author_id, subgenre_id) VALUES("A Walk Amongst Woods", 1, 1)
