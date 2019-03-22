@@ -15,3 +15,4 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Pep
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Sammy", "Eata?", "Human", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Tristan", "Awww Yeaaahh", "Human", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Christian", "I will Destroy", "Human", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Owen", "Mario!", "Human", 2, 2);
