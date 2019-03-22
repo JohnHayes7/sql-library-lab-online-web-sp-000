@@ -20,4 +20,5 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Owe
 INSERT INTO subgenres (name) VALUES ("Suspense");
 INSERT INTO subgenres (name) VALUES ("Sports");
 
-INSERT INTO authors (name)
+INSERT INTO authors (name) VALUES ("John Hayes");
+INSERT INTO authors (name) VALUES ("Jennifer Singer");
