@@ -17,4 +17,4 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Tri
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Christian", "I will Destroy", "Human", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Owen", "Mario!", "Human", 2, 2);
 
-INSERT INTO subgenres ()
+INSERT INTO subgenres (name)
