@@ -10,3 +10,4 @@ INSERT INTO books (title, year, series_id) VALUES ("Through the Wickets", 2015, 
 
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Emmie", "Is that Mine?", "Human", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Ryann", "Huh?", "Human", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Emilia", "Is that Mine?", "Human", 1, 1);
