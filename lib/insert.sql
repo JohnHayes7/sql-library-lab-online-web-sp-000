@@ -7,3 +7,4 @@ INSERT INTO books (title, year, series_id) VALUES ("We Should Turn Around", 2014
 INSERT INTO books (title, year, series_id) VALUES ("The Short Hop", 2011, 2);
 INSERT INTO books (title, year, series_id) VALUES ("The Bobble", 2012, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Through the Wickets", 2015, 2);
+
