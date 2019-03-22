@@ -23,4 +23,4 @@ INSERT INTO subgenres (name) VALUES ("Sports");
 INSERT INTO authors (name) VALUES ("John Hayes");
 INSERT INTO authors (name) VALUES ("Jennifer Singer");
 
-INSERT INTO character_books ()
+INSERT INTO character_books (character_id, book_id)
